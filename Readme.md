@@ -22,20 +22,22 @@ The objective of this project is:
  
 Feel free to keep in touch if you are interested to contribute... 
 
-If any of the cookbook violate the rule and regulation / policy of hackthebox.eu, drop an email to the corresponding author to make amendments.
+If any of the cookbook violate the rule and regulation of hackthebox.eu, drop an email to the corresponding author to make amendments.
 
 Cheers, 
 
-Kattie 
+K. Ong 
 
 
 
+
+#Author 
 
  ------ List of contributor -------
 
   | Author | Email  |
   | :---         |:--- |  
-  |Kattie Ong | ongpuixiang@hotmail.com | 
+  |Kattie Ong | ongpuixiang [at] hotmail.com | 
 
 
 
