@@ -1,7 +1,7 @@
 # Hack-the-box Cookbook 
 
-## Note from Author  
-[Contribution guidelines for this project](Hack-the-Box-Cookbook/important.md)
+## Guidelines  
+[Contribution guidelines for this project](https://github.com/codingninja008/Hack-the-Box-Cookbook/blob/master/Guidelines.md)
 
 
 ## HTB Machine
