@@ -1,4 +1,4 @@
-# Important Note  
+# Guidelines 
 
 ```
 ______               _  ___  ___       _ 
