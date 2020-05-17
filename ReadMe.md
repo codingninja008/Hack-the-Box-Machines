@@ -13,6 +13,7 @@
   |Remote - 10.10.10.180 |Windows |Easy  | [View Me](https://github.com/codingninja008/Hack-the-Box-Cookbook/blob/master/Remote%20CookBook.pdf) | [Download](https://github.com/codingninja008/Hack-the-Box-Cookbook/raw/master/Remote%20CookBook.pdf) | | 
   |Traceback - 10.10.10.181 |Linux |Easy  | coming soon | | | 
  
+ 
   
 
 
