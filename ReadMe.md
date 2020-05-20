@@ -14,7 +14,7 @@
   |Traceback - 10.10.10.181 |Linux |Easy  | coming soon | | | 
  
  ### Note: 
-Write-up of active machine are locked and can only be view once downloaded using the root hashes password. Once the machine retired from Hackthebox, it will be unlocked.
+Write-up of active machine are locked and can only be view once downloaded using the root hashes password. Once the machine retired from Hack-the-Box, it will be unlocked.
 
 
 
