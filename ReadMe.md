@@ -1,10 +1,10 @@
-# Hack-the-box Cookbook 
+# Hack-the-box Machine 
 
 ## Guidelines  
 [Contribution guidelines for this project](https://github.com/codingninja008/Hack-the-Box-Cookbook/blob/master/Guidelines.md)
 
 
-## HTB Machine
+## HTB Machine Cookbook & Write-Up List 
 
   | Machine Name | OS  | Difficulty | CookBook |Write-Up    |
   | :---         |:--- |:---        |:---      | ---:       |
