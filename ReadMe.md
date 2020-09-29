@@ -15,7 +15,7 @@
   |Traceback - 10.10.10.181 | Linux | Easy  | [View Me](https://github.com/codingninja008/Hack-the-Box-Machines/blob/master/Traceback%20-%2010.10.10.181/Traceback%20CookBook.pdf) | [Read Me](https://github.com/codingninja008/Hack-the-Box-Machines/blob/master/Traceback%20-%2010.10.10.181/Traceback%20WriteUp.pdf) |
   |Tabby - 10.10.10.194 | Linux | Easy | coming soon | coming soon |
   |Magic - 10.10.10.185 | Linux | Medium | coming soon | [Read Me](https://github.com/codingninja008/Hack-the-Box-Machines/blob/master/Magic%20-%2010.10.10.185/Magic%20WriteUp.pdf) |
-  |Buff - 10.10.10.198 | Windows | Easy | coming soon | coming soon |
+  |Buff - 10.10.10.198 | Windows | Easy | [View Me](https://github.com/codingninja008/Hack-the-Box-Machines/blob/master/Buff%20-%2010.10.10.198/Buff%20Cookbook.pdf)| coming soon |
   |Blunder - 10.10.10.191 | Linux | Easy | coming soon | coming soon |
 
  ## Note: 
