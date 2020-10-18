@@ -16,7 +16,7 @@
   |Tabby - 10.10.10.194 | Linux | Easy | coming soon | coming soon |
   |Magic - 10.10.10.185 | Linux | Medium | coming soon | [Read Me](https://github.com/codingninja008/Hack-the-Box-Machines/blob/master/Magic%20-%2010.10.10.185/Magic%20WriteUp.pdf) |
   |Buff - 10.10.10.198 | Windows | Easy | [View Me](https://github.com/codingninja008/Hack-the-Box-Machines/blob/master/Buff%20-%2010.10.10.198/Buff%20Cookbook.pdf)| [Read Me](https://github.com/codingninja008/Hack-the-Box-Machines/blob/master/Buff%20-%2010.10.10.198/Buff%20WriteUp.pdf) |
-  |Blunder - 10.10.10.191 | Linux | Easy | coming soon | coming soon |
+  |Blunder - 10.10.10.191 | Linux | Easy | coming soon | [Read Me](https://github.com/codingninja008/Hack-the-Box-Machines/blob/master/Blunder%20-%2010.10.10.191/Blunder%20WriteUp.pdf) |
 
  ## Note: 
 Write-up of active machine are locked and can only be view once downloaded using the root hashes/ NTLM hashes of admin password. Once the machine retired from Hack-the-Box, it will be unlocked.
